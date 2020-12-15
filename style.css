@@ -1,0 +1,25 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  background-color: coral;
+  text-align: center;
+}
+canvas {
+  display: inline-block;
+}
+
+h1{
+  font-family: "Lato", "Lucida Grande", 
+"Lucida Sans Unicode"; 
+  text-align:center; 
+  padding: 1%; ; 
+  background:rgb(200, 200, 210) ;
+}
+
+p {
+    text-align:center; 
+}
+
+a:hover {
+  color: yellow;
+}
